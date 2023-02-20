@@ -1,0 +1,24 @@
+{
+  "name": "ignite-nodejs-atualizado-desafio-01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanknieling/ignite-nodejs-atualizado-desafio-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanknieling/ignite-nodejs-atualizado-desafio-01/issues"
+  },
+  "homepage": "https://github.com/jeanknieling/ignite-nodejs-atualizado-desafio-01#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
